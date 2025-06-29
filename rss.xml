@@ -4,7 +4,7 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Jun 2025 00:38:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jun 2025 18:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
@@ -72,6 +72,12 @@ And as old sol’s last light became squished and flattened and finally nothing 
 <p>The cold, dark, lonely night.</p>
 <p>Sometimes it’s unbearable.</p>
 ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[some things are todos, ...]]></title>
+            <guid>f54ae04058e742d1ae20ae813c494166</guid>
+            <pubDate>Fri, 06 Nov 2015 16:33:01 GMT</pubDate>
+            <content:encoded><![CDATA[some things are todos, and some things are howtos, and some things are rants, some are can'ts and some are won'ts. sometimes things are dos and sometimes they are don'ts. sometimes things just don't look right to you, and if you're feeling it, you can bet someone else is feeling it too. I'm gonna tell you how its gonna be, I won't be that way to you, and you don't be that way to me. just one thing I gotta say, .. hey, ok?]]></content:encoded>
         </item>
     </channel>
 </rss>
