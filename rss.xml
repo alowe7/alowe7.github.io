@@ -4,20 +4,62 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Jul 2025 17:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Nov 2025 21:48:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
-            <title><![CDATA[A tired dog is a happy dog]]></title>
-            <guid>59924eee4ea6427b950e7a1d9b2ad1cc</guid>
-            <pubDate>Tue, 06 May 2025 20:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[<p>"A tired dog is a happy dog" is a saying of mine.<br />
-I think I made it up<br />
-But in any case it's true.</p>
-<p>And it's true of boys I think as well. It's something boys and dogs have in common.</p>
-<p>And that's something I told my kids, my daughters, is that it's probably best to assume that a boy is like a dog.</p>
-<p>He wants to please but he's not that bright.  he can't read your mind and most of the time he's just confused.</p>
-<p>Haha.</p>
+            <title><![CDATA[What do I believe?]]></title>
+            <guid>752dd658cbf24c54b951aa66171bb13f</guid>
+            <pubDate>Mon, 03 Nov 2025 17:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p>What do I believe?</p>
+<p>First of all I don’t know.<br />
+But I have a feeling.</p>
+<p>I don’t have an answer to the problem of evil, why bad things happen to good people.<br />
+And I don’t know what happens when we die. where we go, if anywhere, not to mention where we come from or how!</p>
+<p>But I have a feeling that there’s more to life than it sometimes seems and we’re all a part of something bigger.<br />
+Much bigger.<br />
+So big you have no idea how big and surprising and amazing reality is.</p>
+<p>And it’s humbling when you think about it.</p>
+<p>We are fearfully, wonderfully made.</p>
+<p>And I believe there is something useful in the scriptures of the ancients</p>
+<p>But it would be foolish not to approach them critically.  Rather we should try to understand them in their context and each with its own unique voice and message.</p>
+<p>Some is pure nonsense, and some is precious wisdom and consolation.</p>
+<p>And at the same time know that there are things that are true that can't be proven.</p>
+<p>Both true and not true, or neither.  they are beyond logic.  before logic.</p>
+<p>maybe we just don't have the right equipment to perceive it, like our senses tell us everything we think we know about the world, but only in certain modalities.  we have gear in our head that makes sense of the senses, so to speak, but it can only take us so far when it comes to comprehending the cosmic mystery.</p>
+<p>That's what I believe.</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Math is underrated]]></title>
+            <guid>f8a72951034749b0a932a97032eed9a4</guid>
+            <pubDate>Mon, 03 Nov 2025 17:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[Math is underrated<br />
+It’s abstract and sometimes difficult<br />
+Almost always taught poorly<br />
+But it is a glistening jewel<br />
+Representing a way to think about things and their relationships that is very powerful and useful<br />
+There’s so many different areas of mathematics that each have their own characteristics<br />
+It’s not linear that one branch necessarily precedes another, only sometimes<br />
+I think things like combinatorics and permutations and set theory and maybe even complex analysis should be required for everybody<br />
+Within reason of course]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[We used to say]]></title>
+            <guid>37d1472764814d8c9eab1376d6f79f7f</guid>
+            <pubDate>Sat, 25 Oct 2025 16:45:27 GMT</pubDate>
+            <content:encoded><![CDATA[<p>We used to say</p>
+<p>One time a friend of mine quipped: every problem can be solved with another level of abstraction.</p>
+<p>It’s not true of course and is maybe an example the dry humor one sometimes finds among scientists and engineers.</p>
+<p>No not every problem can be solved this way, but some can and many can be grappled with more effectively by developing an abstraction layer, looking for commonalities, sometimes doing something called "factoring" but not with numbers, but rather behaviors or maybe features.  to apply similar techniques across different domains, or observe some sort of meta behavior across a class of entities</p>
+<p>So in science we usually operate in three dimensions maybe four if you count time as in relativity</p>
+<p>These are the dimensions we can observe at least so we think. But in some theories they postulate 9 or 12 dimensions I’m not sure. They’re pretty far out there and maybe a little dubious at this point like string theory whatever that is</p>
+<p>But really I don’t think you have to go that far afield to find evidence of higher dimensionality all around you, even if your brain isn't naturally wired up to recognize them.</p>
+<p>Like complex numbers in physics and electrical engineering. We use them to represent physical quantities but they’re basically describing things not in the real plane but in complex space: essentially a real space consisting of the real plane and what is called the imaginary plane orthogonal to it.  in other words, another real plan in another dimension. that's what a dimension is, a measure orthogonal to all others.</p>
+<p>These complex numbers help describe the real world even though one component is called imaginary. They just made it up.</p>
+<p>Another example might be out in space in the larger structures they’re starting to make out</p>
+<p>If gravity deforms the space time continuum then maybe space time can assume more complex topologies like the surface of a Klein bottle or something analogous in higher dimensions.</p>
+<p>And in what space would that space itself reside?</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -30,12 +72,6 @@ And as old sol’s last light became squished and flattened and finally nothing 
 <p>The cold, dark, lonely night.</p>
 <p>Sometimes it’s unbearable.</p>
 ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[some things are todos, ...]]></title>
-            <guid>f54ae04058e742d1ae20ae813c494166</guid>
-            <pubDate>Fri, 06 Nov 2015 16:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[some things are todos, and some things are howtos, and some things are rants, some are can'ts and some are won'ts. sometimes things are dos and sometimes they are don'ts. sometimes things just don't look right to you, and if you're feeling it, you can bet someone else is feeling it too. I'm gonna tell you how its gonna be, I won't be that way to you, and you don't be that way to me. just one thing I gotta say, .. hey, ok?]]></content:encoded>
         </item>
     </channel>
 </rss>
